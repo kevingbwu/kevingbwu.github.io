@@ -3,8 +3,7 @@
 ## 下载youtube视频，最佳质量，使用ffmpeg合并
 
 ```
-youtube-dl.exe --proxy 127.0.0.1:1080 -f "bestvideo+bestaudio" --ffmpeg-lo
-cation "location of ffmpeg"  https://www.youtube.com/videourl
+youtube-dl.exe --proxy 127.0.0.1:1080 -f "bestvideo+bestaudio" --ffmpeg-location "location of ffmpeg"  https://www.youtube.com/videourl
 ```
 
 ## vmware虚拟机使用主机代理
