@@ -15,8 +15,6 @@ cation "location of ffmpeg"  https://www.youtube.com/videourl
 
 [该链接6楼](https://www.v2ex.com/t/581584)
 
-## 
-
 # reading
 
 1. [网络是怎样连接的](https://github.com/kevingbwu/How_Network_Works)
