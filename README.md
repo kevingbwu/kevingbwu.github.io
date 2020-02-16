@@ -18,3 +18,4 @@ youtube-dl.exe --proxy 127.0.0.1:1080 -f "bestvideo+bestaudio" --ffmpeg-location
 
 1. [网络是怎样连接的](https://github.com/kevingbwu/How_Network_Works)
 
+# [my notebooks](https://github.com/kevingbwu/my_notebook)
