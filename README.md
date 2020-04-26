@@ -14,8 +14,4 @@ youtube-dl.exe --proxy 127.0.0.1:1080 -f "bestvideo+bestaudio" --ffmpeg-location
 2. 设置你的代理（右键图标，菜单里找到）允许其它设备连入；
 3. 直接在虚拟机里设置代理，IP 填入你物理机的 IP地址，以及你的代理端口；
 
-# reading
-
-1. [网络是怎样连接的](https://github.com/kevingbwu/How_Network_Works)
-
-# [my notebooks](https://github.com/kevingbwu/my_notebook)
+# [我的读书笔记](https://github.com/kevingbwu/my_notebook)
